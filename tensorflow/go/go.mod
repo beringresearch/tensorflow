@@ -1,4 +1,4 @@
-module github.com/tensorflow/tensorflow/tensorflow/go
+mdule github.com/beringresearch/tensorflow/tensorflow/go
 
 go 1.18
 
